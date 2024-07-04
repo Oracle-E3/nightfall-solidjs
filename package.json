@@ -1,6 +1,6 @@
 {
 	"name": "nightfall-solidjs",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"private": true,
 	"type": "module",
 	"scripts": {
@@ -21,6 +21,7 @@
 		"@tauri-apps/cli": "^1"
 	},
 	"dependencies": {
+		"hammerjs": "^2.0.8",
 		"lodash.clonedeep": "^4.5.0",
 		"polished": "^4.2.2",
 		"solid-js": "^1.8.10",
